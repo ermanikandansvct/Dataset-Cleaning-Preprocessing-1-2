@@ -1,0 +1,13 @@
+Student_ID,Name,Gender,Department,Age,Marks,Attendance,City
+101,Arun,Male,AI & DS,19.0,85.0,92.0,Chennai
+102,Priya,Female,AI & DS,20.0,92.0,88.0,Chennai
+103,Karthik,Male,CSE,19.0,86.5,95.0,Coimbatore
+104,Meena,Female,AI & DS,20.0,78.0,90.0,Chennai
+105,Arun,Male,CSE,19.0,85.0,92.0,Chennai
+106,Rahul,Male,AI & DS,20.0,67.0,75.0,Madurai
+107,Divya,Female,CSE,20.0,88.0,88.0,Chennai
+108,karthik,Male,CSE,19.0,90.0,95.0,Coimbatore
+109,Sanjay,Male,AI & DS,21.0,75.0,80.0,Madurai
+110,Priya,Female,AI & DS,20.0,86.5,85.0,Chennai
+111,Meena,Female,CSE,19.0,88.0,88.0,Chennai
+112,Vijay,Male,AI & DS,20.0,95.0,90.0,Coimbatore
